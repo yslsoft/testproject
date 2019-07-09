@@ -3,5 +3,5 @@ def fact(a):
         return a * fact(a-1)
     else:
         return 1
-
+aa
 print(fact(5))
